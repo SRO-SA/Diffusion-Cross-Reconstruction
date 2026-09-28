@@ -1,0 +1,14 @@
+# Versions measured in the cyclegan_vbm environment (Python 3.9.25).
+# TensorFlow 2.15.1 reports a CUDA 12.2 / cuDNN 8 build.
+# PyTorch is used for OpenBHB data loading in this environment.
+tensorflow==2.15.1
+keras==2.15.0
+h5py==3.8.0
+numpy==1.23.5
+pandas==2.0.0
+scipy==1.13.1
+matplotlib==3.9.4
+nibabel==5.1.0
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+wilds==2.0.0
